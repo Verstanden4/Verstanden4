@@ -36,6 +36,18 @@
 <br/>
 
 <div align="center">
+  <h3>🧠 AI Orchestration Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering"/>
+    <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=for-the-badge&logo=meta&logoColor=white" alt="LLMs"/>
+    <img src="https://img.shields.io/badge/Autonomous_Agents-008080?style=for-the-badge&logo=dependabot&logoColor=white" alt="Agents"/>
+    <img src="https://img.shields.io/badge/AI_Integrations-FF4500?style=for-the-badge&logo=probot&logoColor=white" alt="AI Integrations"/>
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>🔥 Consistency is Key</h3>
   <br/>
   <a href="https://github.com/Verstanden4">
