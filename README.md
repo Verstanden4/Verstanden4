@@ -34,12 +34,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Verstanden4&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Verstanden4&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verstanden4&layout=compact&theme=radical&hide_border=true" width="400" alt="Top Languages" />
 </div>
 
 ---
