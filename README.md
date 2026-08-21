@@ -31,6 +31,12 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Verstanden4&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
 ### 📊 GitHub Stats
 
 <div align="center">
