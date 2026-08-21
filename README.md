@@ -6,7 +6,7 @@
   <br/>
   
   <a href="https://readme-typing-svg.herokuapp.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2780F0&center=true&vCenter=true&width=500&lines=Building+beautiful+web+applications...;Passionate+about+clean+code...;Always+learning+new+technologies..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2780F0&center=true&vCenter=true&width=500&lines=AI-Driven+Developer...;Building+smart+solutions+with+AI...;Prompt+Engineering+%26+Web+Dev..." alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,12 +15,12 @@
 <table align="center" style="border: none;">
   <tr>
     <td width="50%" align="center">
-      <h3>🚀 What I Do</h3>
-      <p>I specialize in building interactive, fast, and secure web applications. Currently, I'm deeply invested in my <b>Web PDF Tools</b> project, exploring new ways to manipulate documents purely on the client side.</p>
+      <h3>🤖 AI-Driven Developer</h3>
+      <p>I proudly build web applications by collaborating closely with Artificial Intelligence. I focus on logic, prompt engineering, and solving real-world problems efficiently.</p>
     </td>
     <td width="50%" align="center">
-      <h3>🌱 Learning Journey</h3>
-      <p>Technology never stops evolving, and neither do I! I am actively diving into <b>Advanced JavaScript</b>, modern frameworks like <b>React</b>, and mastering <b>Docker</b> & CI/CD pipelines.</p>
+      <h3>🚀 My Journey</h3>
+      <p>I embrace the future of coding! I am constantly exploring how AI can accelerate development, automate tasks, and turn creative ideas into functioning code in record time.</p>
     </td>
   </tr>
 </table>
