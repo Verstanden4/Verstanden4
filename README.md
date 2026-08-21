@@ -56,7 +56,7 @@
 
 <div align="center">
   <br/>
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
+  <i>"The hottest new programming language is English." – Andrej Karpathy</i>
 </div>
 
 <div align="center">
